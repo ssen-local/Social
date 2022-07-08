@@ -11,7 +11,7 @@
 
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="5.0.1" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.2.2" />
